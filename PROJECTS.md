@@ -67,3 +67,4 @@ A portfolio of projects spanning C++ systems programming, graphics, concurrency,
 - Uses API calls to Google Sheets, Google Docs, and Google Drive to work with job data and related documents.
 - Integrates ChatGPT through an API key to evaluate job relevance and support the filtering process.
 - Uses workflow loops to process requests and handle API overload conditions more reliably.
+- Runs locally in a Docker container.
