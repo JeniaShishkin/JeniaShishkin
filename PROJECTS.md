@@ -2,6 +2,36 @@
 
 A portfolio of projects spanning C++ systems programming, graphics, concurrency, data processing, and AI-powered automation.
 
+## Skills
+
+### Programming Languages
+- **C++** — object-oriented programming, classes and templates, standard library, resource management, data structures, and multithreading.
+- **Python** — scripting, data processing, LLM integrations, and automation.
+
+### Software Engineering
+- Object-oriented design, abstraction, polymorphism, and modular architecture.
+- SOLID principles, Command pattern, and separation of responsibilities.
+- Data structures and algorithms, including linked lists, hashing, allocation strategies, and prime filtering.
+- Concurrency fundamentals: threads, thread pools, producer-consumer workflows, blocking queues, and synchronization.
+- Error handling, input validation, and structured output.
+
+### APIs, AI, and Data
+- API integrations, including Google Sheets, Google Docs, and Google Drive workflows.
+- LLM and ChatGPT API integrations, tool-calling agents, and structured model output.
+- Retrieval-Augmented Generation (RAG), text chunking, embeddings, vector search, and Qdrant.
+- CSV processing and data deduplication.
+
+### DevOps, Tools, and Libraries
+- Docker for running local services and automation workflows.
+- n8n for workflow automation, conditional filtering, loops, and handling API request limits or overload.
+- Git and GitHub for source control and project hosting.
+- Build tooling with Makefiles; SDL for graphics applications and Eigen for linear algebra.
+
+### Development Practices
+- Agile, iterative development and refactoring.
+- Designing for maintainability, extensibility, and separation of concerns.
+- Testing and validation of program behavior.
+
 ## [ASCII Drawings](https://github.com/JeniaShishkin/ascii-drawings)
 - Built a C++ terminal-canvas demo that renders geometric shapes and illustrations using ASCII characters.
 - Implemented line and circle drawing with coordinate-based placement on a grid.
